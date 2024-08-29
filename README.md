@@ -27,7 +27,7 @@ dataset_info:
     dtype:
       class_label:
         names:
-          '0': landmark
-          '1': clothing
-          '2': sports
+          '0': အထင်ကရနေရာများ
+          '1': ရိုးရာအဝတ်အစားမျး
+          '2': မြန်မာ့ အားကစား
 ```
